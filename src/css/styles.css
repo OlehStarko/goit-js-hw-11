@@ -92,3 +92,7 @@ img {
 .info-item {
   margin: 0 10px 0 0;
 }
+
+.is-hidden {
+  display: none;
+}
